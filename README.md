@@ -7,7 +7,7 @@ Sou desenvolvedor back-end e desenvolvedor de chatbots.
 
 Sou graduado em Análise e Desenvolvimento de Sistemas; atualmente trabalho na PGMais atuando com integrações entre sistemas e desenvolvimento de chatbots. Meu foco é o back-end, utilizando Java + Spring.
 
-![Mariano-rafael's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mariano-rafael&theme=radical&show_icons=true&hide_border=true&layout=compact)\n
+![Mariano-rafael's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mariano-rafael&theme=radical&show_icons=true&hide_border=true&layout=compact)  
 ![Mariano-rafael's Stats](https://github-readme-stats.vercel.app/api?username=Mariano-rafael&theme=radical&show_icons=true&hide_border=true&count_private=true)
 
 
