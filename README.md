@@ -3,9 +3,9 @@
 
 
 ## 🚀 Sobre mim
-Sou desenvolvedor back-end e desenvolvedor de chatbots.
+Sou desenvolvedor FullStack e desenvolvedor de chatbots.
 
-Sou graduado em Análise e Desenvolvimento de Sistemas; atualmente trabalho na PGMais atuando com integrações entre sistemas e desenvolvimento de chatbots. Meu foco é o back-end, utilizando Java + Spring.
+Sou graduado em Análise e Desenvolvimento de Sistemas, estou cursando pós graduação em Engenharia de Software e Ciência de Dados; atualmente trabalho na PGMais atuando com desenvolvimento e manutenção de sistemas, integrações e desenvolvimento de chatbots.
 
 ![Mariano-Rafael's Stats](https://github-readme-stats.vercel.app/api?username=Mariano-Rafael&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)   
 ![Mariano-Rafael's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mariano-Rafael&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
